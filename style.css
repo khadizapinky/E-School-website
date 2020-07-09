@@ -1,6 +1,6 @@
 header{
     background-color: #F0FFF0;
-    height:650px;
+    height:600px;
 }
 
 
@@ -25,7 +25,7 @@ header{
 
 /* main_section */
 .main_section{
-    margin-top:50px;
+    margin-top:80px;
   
 }
 .para1_text{
@@ -144,6 +144,12 @@ span{
 
 
 /* footer */
+.footer_area{
+    padding-top:50px;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-bottom:40px;
+}
 footer{
     background-color: #282531;
     color: #FFFFFF;
@@ -153,4 +159,7 @@ ul li{
 }
 .courses{
     font-weight: bold;
+}
+.footer_text{
+    margin-top:40px;
 }
