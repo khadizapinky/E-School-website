@@ -1,31 +1,133 @@
+header{
+    background-color: #F0FFF0;
+    height:650px;
+}
 .navbar-brand{
-    width:100px;
-    
+    width:150px;
+   
 }
 .navbar-brand img{
     width:100%;
-
+}
+ 
+.para1_text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+.para2_text{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 36px;
+color: #6C6B6B;
+}
+.head_text{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 52px;
+color: #000000;
+line-height: 70px;
+}
+span{
+    color:#21B573; 
 }
 .custom_btn{
-    background: #21B573;
+    background:#21B573; 
 border-radius: 33px;
 padding: 12px 36px;
 border:none;
 color:#ffff;
+font-weight: bold;
+}
+.icons_area{
+    border:none;
 }
 .icon_area{
     background: #F8FFFB;
      border-radius: 10px;
      border:none;
 }
-.image img{
-    margin-left:60%;
-    border-radius:100%;
-}
-.txt{
-    padding-right:170px;
+.Modern_area{
+    border:none;
+    border-radius: 10px;
 
 }
+.third_section{
+    margin-top:120px;
+   margin-bottom:60px;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+color: #413960;
+}
+
+.calender img{
+    width:20px;
+    height:20px;
+}
+.people img{
+    width:20px;
+    height:20px;
+}
+.date{
+    font-family: Poppins;
+    color: #585859;
+}
+.seat{
+    font-family: Poppins;
+    color: #585859;
+}
+
+
+.first_section{
+    margin-top:50px;
+  
+}
+.second_section{
+    margin-top:120px;
+    margin-bottom:120px;
+}
+
+.four_section {
+    margin-top:120px;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.textimonial{
+    margin-top:50px;
+    margin-bottom:120px;
+ }
+ .image img{
+    margin-right:50px;
+    border-radius:100%;
+    width: 120px;
+}
+
+.txt{
+ 
+   padding-right:80px;
+   width:600px;
+   
+}
+
+
+
 
 footer{
     background-color: #282531;
