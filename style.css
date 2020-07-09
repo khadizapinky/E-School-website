@@ -1,0 +1,42 @@
+.navbar-brand{
+    width:100px;
+    
+}
+.navbar-brand img{
+    width:100%;
+
+}
+.custom_btn{
+    background: #21B573;
+border-radius: 33px;
+padding: 12px 36px;
+border:none;
+color:#ffff;
+}
+.icon_area{
+    background: #F8FFFB;
+     border-radius: 10px;
+     border:none;
+}
+.image img{
+    margin-left:60%;
+    border-radius:100%;
+}
+.txt{
+    padding-right:170px;
+
+}
+
+footer{
+    background-color: #282531;
+    color: #FFFFFF;
+}
+/* .course ul{
+    padding-right: 20%;
+} */
+ul li{
+    list-style: none;
+}
+.text_design{
+    font-weight: bold;
+}
